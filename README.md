@@ -1,2 +1,1 @@
-# shotdeck-cdn-test
-Test CDN with thumb+full-res
+# shotdeck-cdn-test — trigger deploy Sun Jul 26 22:00:21 UTC 2026
